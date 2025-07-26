@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Векторы.md",
+                "file": "03. Линейные преобразования и матрицы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Векторы"
+              "title": "03. Линейные преобразования и матрицы"
             }
           },
           {
@@ -41,30 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Чеклист \"ML с нуля за 14 дней\".md",
+                "file": "03. Линейные преобразования и матрицы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✅ Чеклист \"ML с нуля за 14 дней\""
+              "title": "03. Линейные преобразования и матрицы"
             }
           },
           {
-            "id": "786e721b5bad8f7b",
+            "id": "cc853dc0db6299fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Базис.md",
+                "file": "03. Линейные преобразования и матрицы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Базис"
+              "title": "03. Линейные преобразования и матрицы"
+            }
+          },
+          {
+            "id": "e4c544c864550c4e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "02. Базис.md",
+                "bFile": "02. Базис.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 02. Базис"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "right": {
     "id": "a59d5e5c6fde90ce",
@@ -222,11 +236,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "786e721b5bad8f7b",
+  "active": "e4c544c864550c4e",
   "lastOpenFiles": [
-    "02. Базис.md",
+    "04. Произведение матриц, или композиция преобразований.md",
+    "03. Линейные преобразования и матрицы.md",
     "01. Векторы.md",
-    "✅ Чеклист \"ML с нуля за 14 дней\".md",
+    "Notes.md",
+    "02. Базис.md",
+    "Чеклист ML с нуля за 14 дней.md",
     "README.md",
     "test.md"
   ]
